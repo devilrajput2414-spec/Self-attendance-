@@ -1,0 +1,6 @@
+{
+  "name": "WorkPulse Payroll",
+  "description": "Employee Attendance & Payroll Management App with automated geo-fencing and dynamic salary calculation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
